@@ -616,6 +616,13 @@ body {
   }
 }
 
+@media (max-width: 991.98px) {
+  .site-header {
+    box-shadow: none;
+  }
+
+}
+
 @media (max-width: 575.98px) {
   #carouselExampleDark,
   #carouselExampleDark .carousel-item {
